@@ -1,0 +1,14 @@
+package com.ctkuo.guess
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+        R.id.main_id
+        R.drawable.pig
+        R.string.ok
+    }
+}
